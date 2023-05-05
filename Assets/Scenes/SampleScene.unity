@@ -1885,7 +1885,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85750bab56c880440902826d62d76883, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 27.67
+      value: 24.579
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85750bab56c880440902826d62d76883, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2304,7 +2304,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 693580050}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 85.4, y: 26.9, z: 0}
+  m_LocalPosition: {x: 90.8, y: 23.81, z: 0}
   m_LocalScale: {x: 50, y: 1, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2617,8 +2617,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c6d0a7f5056a164db5e48b3e762757f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemySpeed: 10
-  nearbydistance: 0
+  enemySpeed: 5
+  nearbydistance: 3
   Gobackspeed: 0.001
 --- !u!65 &875519889
 BoxCollider:
@@ -2691,7 +2691,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 875519887}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 79.7, y: 28.6, z: 14.14}
+  m_LocalPosition: {x: 79.7, y: 25.6, z: 14.14}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3761,7 +3761,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1684252138}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 27.21, y: -0.3, z: -0.97}
+  m_LocalPosition: {x: 27.85, y: 1.25, z: -0.97}
   m_LocalScale: {x: 3.208, y: 0.4249, z: 3.9201}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4006,7 +4006,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85750bab56c880440902826d62d76883, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 27.711
+      value: 24.62
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85750bab56c880440902826d62d76883, type: 3}
       propertyPath: m_LocalPosition.z
